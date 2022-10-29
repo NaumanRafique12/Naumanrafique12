@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nauman Rafique</h1>
 <h3 align="center">A passionate Data Scientist from Lahore in Pakistan</h3>
-<img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<img align="center" alt="coding" src="https://web.facebook.com/photo/?fbid=163919662991606&set=a.163919686324937"
 
 
 >
