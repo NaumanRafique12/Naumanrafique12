@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naumanrafique12&show_icons=true&locale=en" alt="naumanrafique12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naumanrafique12&" alt="naumanrafique12" /></p>
+<p>>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naumanrafique12&" alt="naumanrafique12" /></p>
