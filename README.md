@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **ML,DL, Data Science ,NLP**
 
-- 📫 How to reach me **nomanrafique@microsolution7.com**
+- 📫 How to reach me **[nomanrafique@microsolution7.com](https://nomanrafique.microsolution7.com/)**
 
 - ⚡ In my free time **I read tech articles and watch upon new Technolgies**
 
