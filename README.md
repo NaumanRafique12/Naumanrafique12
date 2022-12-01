@@ -13,7 +13,7 @@
 
 - 🥅 2022 Goals: **Contribute more to Open Source projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NaumanRafique12/Machine-Learning-Projects](https://github.com/NaumanRafique12/Machine-Learning-Projects)
+- 👨‍💻 All of my projects are available at https://github.com/NaumanRafique12?tab=repositories
 
 - 💬 Ask me about **ML,DL, Data Science ,NLP**
 
